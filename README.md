@@ -48,10 +48,13 @@ The goal is to help learners build a strong foundation in **C programming and pr
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
-2. Compile any program using GCC
-```bash
+
+2. Clone the repo  
+   ```bash
    gcc filename.c -o output
-  ./output
+   ./output
+   
+
 
 # 🎯 Topics Covered
 
