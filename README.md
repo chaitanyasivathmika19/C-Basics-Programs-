@@ -52,3 +52,18 @@ The goal is to help learners build a strong foundation in **C programming and pr
 ```bash
    gcc filename.c -o output
   ./output
+
+# 🎯 Topics Covered
+
+- ✅ Loops & Conditionals  
+- ✅ Arrays & Strings  
+- ✅ Functions & Recursion  
+- ✅ Pointers  
+- ✅ Number theory programs (prime, palindrome, Armstrong, etc.)  
+
+---
+
+# 📌 License  
+This project is open-source and available under the **MIT License**.  
+
+
