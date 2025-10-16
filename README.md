@@ -1,8 +1,15 @@
-# C Basic Programs
 
-This repository contains a collection of beginner-friendly **C programs** that cover fundamental concepts such as loops, arrays, conditionals, functions, and pointers.  
-The goal is to help learners build a strong foundation in **C programming and problem-solving**.
 
+# 🚀 C-Basics-Programs
+
+A collection of beginner-friendly **C programs** covering fundamental concepts like loops, arrays, conditionals, functions, and pointers.
+This repo is designed for learners to **build a strong foundation in C programming and problem-solving**.
+
+---
+
+> **Note:** Remove or ignore `.exe` files (or Windows build artifacts) from version control (add them to `.gitignore` if needed).
+
+---
 ---
 
 ## 📂 Project Structure
@@ -42,17 +49,6 @@ The goal is to help learners build a strong foundation in **C programming and pr
 
 ---
 
-
-# 🚀 C-Basics-Programs
-
-A collection of beginner-friendly **C programs** covering fundamental concepts like loops, arrays, conditionals, functions, and pointers.
-This repo is designed for learners to **build a strong foundation in C programming and problem-solving**.
-
----
-
-> **Note:** Remove or ignore `.exe` files (or Windows build artifacts) from version control (add them to `.gitignore` if needed).
-
----
 
 ## 🧩 Programs & Key Concepts
 
