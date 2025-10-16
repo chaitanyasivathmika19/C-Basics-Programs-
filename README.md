@@ -10,7 +10,6 @@ This repo is designed for learners to **build a strong foundation in C programmi
 > **Note:** Remove or ignore `.exe` files (or Windows build artifacts) from version control (add them to `.gitignore` if needed).
 
 ---
----
 
 ## 📂 Project Structure
 
@@ -86,20 +85,34 @@ This repo is designed for learners to **build a strong foundation in C programmi
 
 ---
 
+
+
+# 🎯 Topics Covered
+
+- ✅ Loops & Conditionals  
+- ✅ Arrays & Strings  
+- ✅ Functions & Recursion  
+- ✅ Pointers  
+- ✅ Number theory programs (prime, palindrome, Armstrong, etc.) 
+
+---
+
 ### 💻 How to Compile and Run
 
-These programs can be compiled using a standard C compiler like GCC.
+1. Clone the repo:
 
-1. Save the program (e.g., `armstrong.c`) in a file.
-2. Open Terminal and navigate to the file’s directory.
-3. Compile the program:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+2. Compile the program:
 
    ```bash
    gcc filename.c -o outputname
    ```
 
    *Example:* `gcc armstrong.c -o armstrong_app`
-4. Run the compiled program:
+3. Run the compiled program:
 
    ```bash
    ./outputname
@@ -107,6 +120,7 @@ These programs can be compiled using a standard C compiler like GCC.
 
    *Example:* `./armstrong_app`
 
+---
 ---
 
 ## ✅ Contribution Guidelines
@@ -142,28 +156,7 @@ Contributions are welcome! Here’s how you can help:
 * Platforms like **HackerRank**, **LeetCode**, **GeeksforGeeks** for practice
 
 
-
-## 🚀 How to Run
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
-
-2. Clone the repo  
-   ```bash
-   gcc filename.c -o output
-   ./output
-   
-
-
-# 🎯 Topics Covered
-
-- ✅ Loops & Conditionals  
-- ✅ Arrays & Strings  
-- ✅ Functions & Recursion  
-- ✅ Pointers  
-- ✅ Number theory programs (prime, palindrome, Armstrong, etc.)  
+ 
 
 ---
 
