@@ -121,7 +121,7 @@ This repo is designed for learners to **build a strong foundation in C programmi
    *Example:* `./armstrong_app`
 
 ---
----
+
 
 ## ✅ Contribution Guidelines
 
@@ -155,8 +155,6 @@ Contributions are welcome! Here’s how you can help:
 * Online tutorials for C programming and DSA basics
 * Platforms like **HackerRank**, **LeetCode**, **GeeksforGeeks** for practice
 
-
- 
 
 ---
 
