@@ -1,5 +1,3 @@
-
-
 # 🚀 C-Basics-Programs
 
 A collection of beginner-friendly **C programs** covering fundamental concepts like loops, arrays, conditionals, functions, and pointers.
@@ -84,8 +82,6 @@ This repo is designed for learners to **build a strong foundation in C programmi
 | `RemoveDuplicate.c`            | Removes duplicates in array             | Arrays, loops, conditionals                |
 
 ---
-
-
 
 # 🎯 Topics Covered
 
